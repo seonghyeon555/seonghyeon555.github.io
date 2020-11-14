@@ -18,7 +18,7 @@ CPWL.Welcome = function (stage) {
         color: "white",
         font: "Arial"
     }, this.el);
-    this.text.innerHTML = "Welocome My Site";
+    this.text.innerHTML = "Welocome to William'S Offical Site";
 
     this.init();
 }
