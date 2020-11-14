@@ -19,17 +19,17 @@ CPWL.Menu = function(parentEl,menuHeight,stage,config){
 
     if(config.intro){
         this.pageIntro = new CPWL.Intro(stage,config.intro);
-        this.intro = this.createMenuItem("个人简介",this.pageIntro);
+        this.intro = this.createMenuItem("INFO",this.pageIntro);
     }
 
     if(config.photo){
         this.pagePhoto = new CPWL.Gallery(stage,config.photo);
-        this.photo = this.createMenuItem("相册",this.pagePhoto);
+        this.photo = this.createMenuItem("Gallery",this.pagePhoto);
     }
 
     if(config.video){
         this.pageVideo = new CPWL.Video(stage,config.video);
-        this.video = this.createMenuItem("视频",this.pageVideo);
+        this.video = this.createMenuItem("LIFE",this.pageVideo);
     }
     //this.video = this.createMenuItem("视频");
     //this.works = this.createMenuItem("作品");
