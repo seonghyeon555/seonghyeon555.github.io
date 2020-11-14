@@ -18,7 +18,7 @@ CPWL.Welcome = function (stage) {
         color: "white",
         font: "Arial"
     }, this.el);
-    this.text.innerHTML = "欢迎进入陈鹏万里的个人网站";
+    this.text.innerHTML = "Welocome My Site";
 
     this.init();
 }
