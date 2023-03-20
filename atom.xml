@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>William&#39;s House</title>
+  
+  
+  <link href="http://seonghyeon555.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://seonghyeon555.github.io/"/>
+  <updated>2023-03-20T12:04:33.981Z</updated>
+  <id>http://seonghyeon555.github.io/</id>
+  
+  <author>
+    <name>William Peterson</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Capstone-Week Three</title>
+    <link href="http://seonghyeon555.github.io/2023/03/20/Report-3/"/>
+    <id>http://seonghyeon555.github.io/2023/03/20/Report-3/</id>
+    <published>2023-03-20T04:08:32.000Z</published>
+    <updated>2023-03-20T12:04:33.981Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;주요-기능-추천-공유-채팅-과-보조-기능-로그인-가입-사용자-정보-을-단계별로-구현&quot;&gt;&lt;a href=&quot;#주요-기능-추천-공유-채팅-과-보조-기능-로그인-가입-사용자-정보-을-단계별로-구현&quot; class=&quot;headerlink&quot; title=&quot;주요 기능(추천, 공유, 채팅)과 보조 기능(로그인, 가입, 사용자 정보)을 단계별로 구현&quot;&gt;&lt;/a&gt;주요 기능(추천, 공유, 채팅)과 보조 기능(로그인, 가입, 사용자 정보)을 단계별로 구현&lt;/h2&gt;&lt;h3 id=&quot;EX-추천-기능&quot;&gt;&lt;a href=&quot;#EX-추천-기능&quot; class=&quot;headerlink&quot; title=&quot;EX 추천 기능&quot;&gt;&lt;/a&gt;EX 추천 기능&lt;/h3&gt;&lt;p&gt;1 UI 및 인터페이스   (주좌건)&lt;/p&gt;
+&lt;p&gt;2 BMOB Database 구축 및 연계   (관지동,주좌건,오성현)&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="capstone" scheme="http://seonghyeon555.github.io/categories/capstone/"/>
+    
+    
+    <category term="report" scheme="http://seonghyeon555.github.io/tags/report/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Capstone-Week One</title>
+    <link href="http://seonghyeon555.github.io/2023/03/20/Report-1/"/>
+    <id>http://seonghyeon555.github.io/2023/03/20/Report-1/</id>
+    <published>2023-03-20T03:59:25.000Z</published>
+    <updated>2023-03-20T12:04:09.107Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;capstone-desgin-첫-주-회의&quot;&gt;&lt;a href=&quot;#capstone-desgin-첫-주-회의&quot; class=&quot;headerlink&quot; title=&quot;capstone desgin 첫 주 회의&quot;&gt;&lt;/a&gt;capstone desgin 첫 주 회의&lt;/h2&gt;&lt;h2 id=&quot;팀-37&quot;&gt;&lt;a href=&quot;#팀-37&quot; class=&quot;headerlink&quot; title=&quot;팀 37&quot;&gt;&lt;/a&gt;팀 37&lt;/h2&gt;&lt;h3 id=&quot;주제-팀원-구성-주제-확인&quot;&gt;&lt;a href=&quot;#주제-팀원-구성-주제-확인&quot; class=&quot;headerlink&quot; title=&quot;주제: 팀원 구성, 주제 확인&quot;&gt;&lt;/a&gt;주제: 팀원 구성, 주제 확인&lt;/h3&gt;</summary>
+    
+    
+    
+    <category term="capstone" scheme="http://seonghyeon555.github.io/categories/capstone/"/>
+    
+    
+    <category term="report" scheme="http://seonghyeon555.github.io/tags/report/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>포로잭트 소개</title>
+    <link href="http://seonghyeon555.github.io/2023/03/20/project-introdeuce/"/>
+    <id>http://seonghyeon555.github.io/2023/03/20/project-introdeuce/</id>
+    <published>2023-03-20T03:37:55.000Z</published>
+    <updated>2023-03-20T12:04:49.640Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;포로잭트-대락적인-예상&quot;&gt;&lt;a href=&quot;#포로잭트-대락적인-예상&quot; class=&quot;headerlink&quot; title=&quot;포로잭트 대락적인 예상&quot;&gt;&lt;/a&gt;포로잭트 대락적인 예상&lt;/h3&gt;&lt;p&gt;상요자의 성별,나이,종교,날씨 등에 따라 관련 음악,옷,음식을 추천하는 앱&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="capstone" scheme="http://seonghyeon555.github.io/categories/capstone/"/>
+    
+    
+    <category term="info" scheme="http://seonghyeon555.github.io/tags/info/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>INFO</title>
+    <link href="http://seonghyeon555.github.io/2023/03/20/INFO/"/>
+    <id>http://seonghyeon555.github.io/2023/03/20/INFO/</id>
+    <published>2023-03-20T03:25:12.000Z</published>
+    <updated>2023-03-20T03:29:10.030Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/kookmin-sw/capstone-2023-37&quot;&gt;Team 37&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;팀장 오성현 00003513&lt;br&gt;조원 관지동 00003027&lt;br&gt;조원 주좌건</summary>
+        
+      
+    
+    
+    
+    <category term="capstone" scheme="http://seonghyeon555.github.io/categories/capstone/"/>
+    
+    
+    <category term="info" scheme="http://seonghyeon555.github.io/tags/info/"/>
+    
+  </entry>
+  
+</feed>
