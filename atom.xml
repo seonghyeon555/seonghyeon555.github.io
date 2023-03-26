@@ -6,7 +6,7 @@
   <link href="http://seonghyeon555.github.io/atom.xml" rel="self"/>
   
   <link href="http://seonghyeon555.github.io/"/>
-  <updated>2023-03-20T13:45:47.639Z</updated>
+  <updated>2023-03-26T14:09:15.360Z</updated>
   <id>http://seonghyeon555.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Capstone-Week Four</title>
+    <link href="http://seonghyeon555.github.io/2023/03/26/Report-4/"/>
+    <id>http://seonghyeon555.github.io/2023/03/26/Report-4/</id>
+    <published>2023-03-26T14:02:35.000Z</published>
+    <updated>2023-03-26T14:09:15.360Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Capstone-Desgin&quot;&gt;&lt;a href=&quot;#Capstone-Desgin&quot; class=&quot;headerlink&quot; title=&quot;Capstone Desgin&quot;&gt;&lt;/a&gt;Capstone Desgin&lt;/h2&gt;&lt;h3 id=&quot;20230324-week4-meeting&quot;&gt;&lt;a href=&quot;#20230324-week4-meeting&quot; class=&quot;headerlink&quot; title=&quot;20230324 week4 meeting&quot;&gt;&lt;/a&gt;20230324 week4 meeting&lt;/h3&gt;&lt;p&gt;Team37&lt;/p&gt;
+&lt;p&gt;참가자: 모든 팀원(오성현, 관지동, 주좌건)&lt;br&gt;금주 회의록: 오성현, 관지동&lt;br&gt;번역자: 오성현20193513&lt;br&gt;업로드: 관지동20203027&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="capstone" scheme="http://seonghyeon555.github.io/categories/capstone/"/>
+    
+    
+    <category term="report" scheme="http://seonghyeon555.github.io/tags/report/"/>
+    
+  </entry>
   
   <entry>
     <title>Capstone-Week Three</title>
